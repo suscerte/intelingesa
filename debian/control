@@ -1,0 +1,10 @@
+Package: inteligensa
+Version: 1.0
+Architecture: i386
+Maintainer: Axel Díaz <diaz.axelio@gmail.com>
+Installed-Size: 26
+Depends: scinterface (>= 5.0)
+Section: misc
+Priority: optional
+Description: Controladores criptográficos para smarcards Inteligensa
+ Conjunto de librerías criptográficas para tarjetas inteligentes de marca Inteligensa.
